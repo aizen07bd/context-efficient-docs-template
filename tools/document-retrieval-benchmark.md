@@ -15,7 +15,7 @@
 
 벤치마크 스크립트:
 
-[tools/doc_search_benchmark.py](/Users/kris/code/ai/proj/totalvulscaner/tools/doc_search_benchmark.py)
+[tools/doc_search_benchmark.py](/tools/doc_search_benchmark.py)
 
 문서에는 코드 내용을 포함하지 않는다.
 
