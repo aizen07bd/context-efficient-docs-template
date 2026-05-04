@@ -211,11 +211,11 @@ agent는 문서를 “정리”하면서 유용한 맥락을 지워버릴 수 �
 
 벤치마크 스크립트:
 
-/tools/doc_search_benchmark.py
+[tools/doc_search_benchmark.py](/tools/doc_search_benchmark.py)
 
 상세 벤치마크 문서:
 
-/tools/document-retrieval-benchmark.md
+[tools/document-retrieval-benchmark.md](/tools/document-retrieval-benchmark.md)
 
 ## 벤치마크 구성
 
