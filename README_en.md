@@ -209,11 +209,11 @@ The tested variables are document structure, directory layout, YAML frontmatter,
 
 Benchmark script:
 
-[tools/doc_search_benchmark.py](/Users/kris/code/ai/proj/totalvulscaner/tools/doc_search_benchmark.py)
+[tools/doc_search_benchmark.py](/tools/doc_search_benchmark.py)
 
 Detailed benchmark note:
 
-[docs/document-retrieval-benchmark.md](/Users/kris/code/ai/proj/totalvulscaner/docs/document-retrieval-benchmark.md)
+[tools/document-retrieval-benchmark.md](/tools/document-retrieval-benchmark.md)
 
 ## Benchmark Setup
 
